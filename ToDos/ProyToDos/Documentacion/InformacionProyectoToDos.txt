@@ -1,0 +1,37 @@
+Proyecto  -- ToDos
+
+
+
+
+Proyecto Git-UAZ
+		--- ProyectoTodos
+				ProyMavenTodos
+					src
+					test
+				Documentacion
+				Otras 
+
+		--- ProyectoReservaAsientosAutobus
+		--- PuntoVenta
+-----------
+Entidades => Clases con características
+
+	* No tienen lógica de negocio
+	* Representación de datos que son manejados
+	* Son "persistidos" en "Base de datos".
+
+	Sustantivo=>ADOO
+		* Entidad mapea a una tabla en BD.
+	Se representan o se codifican como "JavaBeans"
+		* Atributos son privados
+		* Se usan getters y setters
+		* Debe tener un constructor sin parámetros.
+
+
+
+
+
+
+
+
+

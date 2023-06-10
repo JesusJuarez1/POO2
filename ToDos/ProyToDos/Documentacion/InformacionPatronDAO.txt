@@ -1,0 +1,35 @@
+Patrón DAO
+Patrón Repository
+Patrón DTO
+	Data Transfer Object
+-----------------
+SQLite es la BD más utilizada
+	Se encuentra en todos los dispositivos móviles
+	Ocupa muy poco espacio. Menos de 1MByte
+	Monousuario.
+	No requiere grandes capacidades
+	------------------
+	 CREATE TABLE PERSONA  (
+	 id int primary key not null,   
+	 nombre  text  not null,   
+	 edad    int   not null,   
+	 salario  real   )
+	 ----------
+	 JDBC  Java Database Connectivy =>  SQL
+	 		Se "crean" las consultas tanto de inserción, actualización y recuperación de datos desde/hacia la base de datos(racional).
+	 		NO estamos hablando de Objetos.
+	 Java "normal"
+	 ----------
+	 JPA => Java Persistence Api  => Recomendado
+	 	JEE
+	 ----------
+Frameworks => Acceso y manejo de bases de datos
+	Hibernate ==> Se incorporaron sus ideas al lenguajes, a las especificaciones formales.
+	JPA  
+
+
+
+
+
+
+

@@ -1,0 +1,75 @@
+TDD =>
+	Test 
+	Driven
+	Development
+	-----
+	Primero!!!!!!!!!!
+		Definir cómo debe funcionar ( Se hacen las pruebas)
+		A partir de lo que buscamos probar se codifica
+	-----
+	Usar herramientas de pruebas unitarias, integración.
+
+	------
+toString ==> Tener una representación en forma de String del contenido o del ESTADO de un objeto.
+----------
+AbstractFactory
+--- MethodFactory
+Expert-
+	-
+	-Problema? A quién le corresponde cierta responsabilidad.
+
+Creator-
+	Solución??
+	Problema??
+
+LowCoupling
+HighCohesion
+Controller--
+	-- Punto de entrada a las funcionalidades de un sistema
+	-- Distribuir las solicitudes
+Una forma del patrón "Facade"
+	-- 
+Singleton
+	--  Solo debe existir una instancia (un objeto) de una clase
+	--  new ObjetoUsado();
+	--  new ObjetoUsado();
+
+--- 
+Antipatrones
+	-- 
+---   Patrón de capas
+	---  3 capas
+		Persistencia => Responsabilidades de persistir
+			capa seguridad
+			capa cifrado
+Arquetipo => Definición
+	Plantilla de un proyecto
+		-- EStructura de carpetas
+		-- Tecnologías
+Aplicación empresarial
+	-- Datos complejos
+	-- Muchos usuarios al mismo tiempo
+	-- MAnejar información empresarial
+	-- Vivo... continuamente evoluciona.
+-------------------------------------------------------------------
+TDD => Test Driven Development
+JUnit  =>  Pruebas unitarias
+		Se prueban básicamente las funciones o métodos
+-------------------------------------------------------------------
+Todo cambio que yo haga, NUNCA será en contra de ustedes.
+----------------------------
+MODELO
+-----------
+DAO  
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: mx.edu.uaz.ingsoft.poo2.AppTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.43 s - in mx.edu.uaz.ingsoft.poo2.AppTest

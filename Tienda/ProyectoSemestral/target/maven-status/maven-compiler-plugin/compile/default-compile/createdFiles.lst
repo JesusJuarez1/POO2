@@ -1,0 +1,10 @@
+mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\dao\TicketDAO.class
+mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\dao\interfaces\IProductoDao.class
+mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\dao\interfaces\ITicketDao.class
+mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\entidades\interfaces\IIdentificable.class
+mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\dao\ClienteDAO.class
+mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\dao\interfaces\IClienteDao.class
+mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\entidades\Cliente.class
+mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\dao\ProductoDAO.class
+mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\entidades\Ticket.class
+mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\entidades\Productos.class

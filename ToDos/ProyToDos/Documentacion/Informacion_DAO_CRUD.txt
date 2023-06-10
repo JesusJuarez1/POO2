@@ -1,0 +1,15 @@
+DAO  (CRUD básico)
+	ObjetoEntidad findBy(int id) =>  Busca en la base de datos el registro cuyo identificador sea "id" y regresa el objeto correspondiente.
+
+	List<ObjetosEntidad> findAll() => Regresa todos los registros (en forma de objetos)
+
+	create
+	save  
+	crear 
+	guardar  (ObjetoEntidad unObjeto) => NO incorpora un "id" , el id se lo pone automaticamente la base de datos.
+
+	actualizar
+	update(ObjetoEntidad unObjeto) => Ya debe tener el id. Se supone que los demás campos (o al menos uno) ya tiene nueva información. Investigar cómo se actualiza un registro en bd relacional => UPDATE
+
+	delete(int id)
+	delete(ObjetoEntidad unObjeto) => Ya debe tener el id del registro a borrar 

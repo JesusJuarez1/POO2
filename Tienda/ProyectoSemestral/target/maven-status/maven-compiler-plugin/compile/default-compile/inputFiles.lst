@@ -1,0 +1,17 @@
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\ProyectoSemestral\src\main\java\mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\entidades\Ticket.java
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\ProyectoSemestral\src\main\java\mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\entidades\Cliente.java
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\ProyectoSemestral\src\main\java\mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\dao\interfaces\EntidadBaseDAO.java
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\ProyectoSemestral\src\main\java\mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\dao\interfaces\util\IDBExecute.java
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\ProyectoSemestral\src\main\java\mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\dao\TicketDAO.java
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\ProyectoSemestral\src\main\java\mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\jpacontrollers\exeption\NonexistentEntityException.java
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\ProyectoSemestral\src\main\java\mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\dao\interfaces\IEntidadBaseDAO.java
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\ProyectoSemestral\src\main\java\mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\dao\ClienteDAO.java
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\ProyectoSemestral\src\main\java\mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\entidades\Productos.java
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\ProyectoSemestral\src\main\java\mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\jpacontrollers\exeption\PreexistingEntityException.java
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\ProyectoSemestral\src\main\java\mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\dao\interfaces\util\IDBJustExecute.java
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\ProyectoSemestral\src\main\java\mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\jpacontrollers\exeption\IllegalOrphanException.java
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\ProyectoSemestral\src\main\java\mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\dao\ProductoDAO.java
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\ProyectoSemestral\src\main\java\mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\dao\interfaces\IProductoDao.java
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\ProyectoSemestral\src\main\java\mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\dao\interfaces\IClienteDao.java
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\ProyectoSemestral\src\main\java\mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\dao\interfaces\ITicketDao.java
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\ProyectoSemestral\src\main\java\mx\edu\uaz\ingsoft\poo2\Proyecto\persistencia\entidades\interfaces\IIdentificable.java
